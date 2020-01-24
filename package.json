@@ -4,7 +4,8 @@
   "description": "Webpack loader for Alloy components",
   "main": "lib/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lint": "eslint lib",
+    "test": "npm run lint"
   },
   "keywords": [
     "webpack",

@@ -20,8 +20,10 @@
     "url": "git+https://github.com/appcelerator/alloy-loader.git"
   },
   "dependencies": {
+    "globby": "^11.0.0",
     "loader-utils": "^1.2.3",
-    "source-map": "^0.7.3"
+    "source-map": "^0.7.3",
+    "xmldom": "^0.2.1"
   },
   "devDependencies": {
     "eslint": "^6.6.0",

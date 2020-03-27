@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "globby": "^11.0.0",
-    "loader-utils": "^1.2.3",
+    "loader-utils": "^2.0.0",
     "neo-async": "^2.6.1",
     "source-map": "^0.7.3",
     "xmldom": "^0.2.1"

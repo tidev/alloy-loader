@@ -21,4 +21,4 @@ npm i alloy-loader
 
 ## Development
 
-Make sure to prune to production dependencies when you link this package, for example to test it in `appcd-plugin-webpack`. The plugin contained in this loader will create instances of [`ContextElementDependency`](https://github.com/webpack/webpack/blob/master/lib/dependencies/ContextElementDependency.js) and adds them to the Webpack compilation. It is important that these are required from the same Webpack module that actually runs the compilation, or else you'll see cryptic errors about callbacks that were called twice.
+Make sure to prune to production dependencies when you link this package, for example to test it in [`@titanium-sdk/webpack-plugin-alloy`](https://github.com/appcelerator/webpack-plugin-alloy). The plugin contained in this loader will create instances of [`ContextElementDependency`](https://github.com/webpack/webpack/blob/master/lib/dependencies/ContextElementDependency.js) and adds them to the Webpack compilation. It is important that these are required from the same Webpack module that actually runs the compilation, or else you'll see cryptic errors about callbacks that were called twice.

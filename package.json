@@ -31,7 +31,7 @@
     "webpack-sources": "^1.4.3"
   },
   "devDependencies": {
-    "eslint": "^6.6.0",
+    "eslint": "^7.4.0",
     "eslint-config-axway": "^4.3.0",
     "webpack": "^4.41.5"
   },

@@ -1,3 +1,11 @@
+## [0.2.11](https://github.com/appcelerator/alloy-loader/compare/0.2.10...0.2.11) (2020-08-04)
+
+
+### Bug Fixes
+
+* clear style cache when .tss file changes ([ac58d56](https://github.com/appcelerator/alloy-loader/commit/ac58d56b485ce69a65a3c9da31ab9e29daf93212))
+
+
 ## [0.2.10](https://github.com/appcelerator/alloy-loader/compare/0.2.9...0.2.10) (2020-07-23)
 
 

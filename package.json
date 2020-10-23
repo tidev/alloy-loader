@@ -33,7 +33,7 @@
   "devDependencies": {
     "eslint": "^7.4.0",
     "eslint-config-axway": "^5.0.0",
-    "webpack": "^4.41.5"
+    "webpack": "^5.2.0"
   },
   "files": [
     "lib"

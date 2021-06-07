@@ -23,7 +23,7 @@
     "webpack": "^4.0.0 || ^5.0.0"
   },
   "dependencies": {
-    "alloy-utils": "0.2.5",
+    "alloy-utils": "0.2.7",
     "globby": "^11.0.0",
     "loader-utils": "^2.0.0",
     "neo-async": "^2.6.1",

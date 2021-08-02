@@ -28,7 +28,7 @@
     "loader-utils": "^2.0.0",
     "neo-async": "^2.6.1",
     "source-map": "^0.7.3",
-    "webpack-sources": "^2.0.0"
+    "webpack-sources": "^3.2.0"
   },
   "devDependencies": {
     "eslint": "^7.4.0",
